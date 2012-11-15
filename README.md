@@ -32,4 +32,5 @@ NOTES
 -----------------------------------------------------------------------------------------------------------------
 LICENSE
 This script is made available, without warranty under the "Do WTF You Want To" Public Licence
+
 See http://sam.zoy.org/wtfpl/ for more details
