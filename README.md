@@ -19,9 +19,9 @@ There are only 2 things I really need for an effective mobile GTD solution
 
 Additionally (of course) it all needs to sync up with my Mac, via the cloud.
 The script uses Evernote to achieve a 2 way "sync":
-Firstly, it establishes an Evernote "Inbox"
-and creates a Things to do for any note in there that was created using an Android device
-Secondly, it reads the "Next" list from Things and maintains an Evernote note that matches that list
+
+* Firstly, it establishes an Evernote "Inbox" and creates a Things "to do" for any note found in there, that was created using an Android device
+* Secondly, it reads the "Next" list from Things and maintains an Evernote note that matches that list
 
 -----------------------------------------------------------------------------------------------------------------
 NOTES
