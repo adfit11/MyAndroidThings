@@ -31,6 +31,5 @@ NOTES
 
 -----------------------------------------------------------------------------------------------------------------
 LICENSE
-This script is made available, without warranty under the "Do WTF You Want To" Public Licence
-
-See http://sam.zoy.org/wtfpl/ for more details
+This script is made available, without restriction or warranty, based upon the X11 License
+See <http://directory.fsf.org/wiki/License:X11> for more details
