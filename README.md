@@ -13,8 +13,8 @@ I use this script to compensate.
 -----------------------------------------------------------------------------------------------------------------
 WHAT IT DOES
 There are only 2 things I really need for an effective mobile GTD solution
-(1) An ability to very quickly add a task or idea using my Android phone
-(2) A way to review my "Next" items using my Android
+* An ability to very quickly add a task or idea using my Android phone
+* A way to review my "Next" items using my Android
 Additionally (of course) it all needs to sync up with my Mac, via the cloud.
 The script uses Evernote to achieve a 2 way "sync":
 Firstly, it establishes an Evernote "Inbox"
